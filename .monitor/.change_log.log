@@ -1,0 +1,8 @@
+INFO:root:2022-05-22 20:59:03 - new file found /Users/patrickpragman/PersonalProjects/monitor_lizard/monitor.sh
+WARNING:root:2022-05-22 21:03:48 - no previous .state.p found, not able to register any change.
+INFO:root:2022-05-22 21:03:48 - new file found /Users/patrickpragman/PersonalProjects/monitor_lizard/monitor.sh
+INFO:root:2022-05-22 21:03:48 - new file found /Users/patrickpragman/PersonalProjects/monitor_lizard/test.txt
+WARNING:root:2022-05-22 21:05:20 - no previous .state.p found, not able to register any change.
+INFO:root:2022-05-22 21:05:20 - new file found /Users/patrickpragman/PersonalProjects/monitor_lizard/monitor.sh
+INFO:root:2022-05-22 21:05:20 - new file found /Users/patrickpragman/PersonalProjects/monitor_lizard/test.txt
+INFO:root:2022-05-22 21:10:20 - /Users/patrickpragman/PersonalProjects/monitor_lizard/test.txt has been deleted

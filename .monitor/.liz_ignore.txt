@@ -1,0 +1,9 @@
+# these are comments, they are ignored by default
+.liz_ignore.txt # they can also happen __after__ what you want to ignore
+.monitor  # we don't want to backup anything in the file describing the backup process
+venv  # backup of the
+.idea  # this file is from the land of
+.backup
+.change_log.log
+.deleted
+monitor.sh
